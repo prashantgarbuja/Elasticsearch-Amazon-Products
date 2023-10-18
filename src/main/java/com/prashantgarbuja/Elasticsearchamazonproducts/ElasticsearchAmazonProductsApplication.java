@@ -18,8 +18,8 @@ contact = @Contact(
         url = "https://prashantgarbuja.com"
 ),
 license = @License(
-        name = "My License",
-        url = "https://www.github.com/my-license"
+        name = "MIT License",
+        url = "https://github.com/prashantgarbuja/Elasticsearch-Amazon-Products/blob/main/LICENSE"
 )))
 public class ElasticsearchAmazonProductsApplication {
 
